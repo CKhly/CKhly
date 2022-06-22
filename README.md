@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on AppWorks School Campus Program #1.
+- 🔭 I’m currently working on AppWorks School Software Engineering Campus Program #1.
 - 🌱 I’m currently learning Fullstack Web Development.
 - :school_satchel: I’m an incoming graduate student @ NTU IM.
 <!--
